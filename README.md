@@ -14,6 +14,6 @@
 
 <img src="real_results.png" alt="实验结果" width="80%" />
 
-<video src="video.mp4" controls width="320"></video>
+[▶ 查看演示视频](video.mp4)
 
 > 本项目于2024年2月完成
